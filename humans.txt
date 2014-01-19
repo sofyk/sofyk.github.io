@@ -1,0 +1,4 @@
+Hosts files for other GitHub pages,
+and serves project pages from io.sofyk.com.
+
+My homepage is http://sofyk.com.
